@@ -1,2 +1,1 @@
-# EEG
-Eletroencefalograma
+Eletroencefalograma (EEG) DIY
