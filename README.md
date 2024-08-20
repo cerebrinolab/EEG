@@ -1,3 +1,4 @@
 Eletroencefalograma (EEG) DIY
 
-Excluí o repositório original porque o código ficou confuso, vou continuar a partir desse.
+![Placa](https://github.com/luizdiy/OpenEEG/placa.png)
+![Programa](https://github.com/luizdiy/OpenEEG/programa.png)
