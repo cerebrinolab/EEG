@@ -1,6 +1,10 @@
 Eletroencefalograma (EEG) DIY
 
+Captura
+![Captura](captura.png)
 
-![Programa](screen.png)
+Análise
+![Análise](analise.png)
 
+Placa
 ![Placa](placa.png)
