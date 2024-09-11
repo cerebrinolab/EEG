@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "openEEG")(type "KiCad")(uri "${KIPRJMOD}/openEEG.pretty")(options "")(descr ""))
+)
