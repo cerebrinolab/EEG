@@ -27,11 +27,11 @@ Análise por Inteligência Artificial
 
 O sinal do gráfico abaixo foi processado por I.A., treinada com datasets etiquetados para olhos abertos, fechados, piscadas e movimentos musculares.
 Esse sinal com duração de 6 minutos, alternando minuto a minuto entre olhos abertos e olhos fechados, iniciando com os olhos abertos.
+Atualmente a análise é feita offline, mas o objetivo é que a I.A. efetue a análise em tempo real e que a interface traduza o resultado em estímulos sonoros e visuais, possibilitando que o usuário possa aprender a ter algum controle sobre seus estados mentais.
 
 
 ![Análise](analise_ia.png)
 
-Permite abrir os arquivos RAW salvos com o módulo Captura, exibindo o sinal capturado separado nas faixas de Delta a Alfa
 
 Placa
 
