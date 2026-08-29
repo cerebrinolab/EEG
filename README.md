@@ -23,9 +23,13 @@ Alpha (8 a 13 Hz)
 Beta (13 a 30 Hz)
 Gama (30 a 80 Hz)
 
-Análise
+Análise por Inteligência Artificial
 
-![Análise](analise.png)
+O sinal do gráfico abaixo foi processado por I.A., treinada com datasets etiquetados para olhos abertos, fechados, piscadas e movimentos musculares.
+Esse sinal com duração de 6 minutos, alternando minuto a minuto entre olhos abertos e olhos fechados, iniciando com os olhos abertos.
+
+
+![Análise](analise_ia.png)
 
 Permite abrir os arquivos RAW salvos com o módulo Captura, exibindo o sinal capturado separado nas faixas de Delta a Alfa
 
