@@ -1,10 +1,10 @@
-EEG para analise e neuro-feedback baseado no Arduino.
+# EEG para analise e neuro-feedback usando Arduino e circuitos DIY.
 
-Captura
+## Captura
 
 ![Captura](captura.png)
 
-Na tela de captura temos três gráficos, o seletor de interface serial e os três botões de controle.
+Essa é a tela de captura, inicialmente com uma interface minimalista, com diferentes gráficos combinados para facilitar a leitura.
 
 Primeiro gráfico - sinal x tempo:
 Aqui é possível acompanhar o sinal capturado, o eixo horizontal esta graduado em mili segundos.
@@ -20,16 +20,17 @@ Alpha (8 a 13 Hz)
 Beta (13 a 30 Hz)
 Gama (30 a 80 Hz)
 
-Análise por Inteligência Artificial
+## Análise por Inteligência Artificial
 
 O sinal do gráfico abaixo foi processado por I.A., treinada com datasets etiquetados para olhos abertos, fechados, piscadas e movimentos musculares.
 Esse sinal com duração de 6 minutos, alternando minuto a minuto entre olhos abertos e olhos fechados, iniciando com os olhos abertos.
-Atualmente a análise é feita offline, mas o objetivo é que a I.A. efetue a análise em tempo real e que a interface traduza o resultado em estímulos sonoros e visuais, possibilitando que o usuário possa aprender a ter algum controle sobre seus estados mentais.
+Atualmente a análise é feita offline, mas o objetivo é que a I.A. efetue a análise em tempo real e que a interface traduza o resultado em estímulos sonoros e visuais, possibilitando que o usuário possa aprender a controlar seus estados mentais.
 
 
 ![Análise](analise_ia.png)
 
 
-Placa
+## Placa
+Circuito de aquisição de sinais
 
 ![Placa](placa.png)
